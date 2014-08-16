@@ -1,6 +1,24 @@
----
-theme :
-  name : bootstrap
----
-{% include JB/setup %}
-{% include themes/bootstrap/default.html %}
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="theme-base-purple">
+
+    <header class="masthead">
+      <div class="masthead-inner">
+        <h1><a href="https://privacysolutions.no">{{ site.title }}</a></h1>
+        <p class="lead">{{ site.description }}</p>
+
+        <div class="colophon">
+          <p>&copy; 2014. <a href="https://privacysolutions.no">The privacy solutions project</a>. All rights reserved.</p>
+        </div>
+      </div>
+    </header>
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
