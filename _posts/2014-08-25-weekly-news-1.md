@@ -41,5 +41,7 @@ K1773R is currently investigating on some transaction issues that have happended
 
 As for myself, I've shocked myself by using a lot of time with math, and earlier mentioned as boring whitepapers. But more code should emerge the next days by me as well. However, I've started on the ZeroCoin implementation and collobrate with Gnosis with regards to design options. It's possible to implement it in different ways, and we would like to find the best way. As of now it seems we're going for a "temporary-2nd-blockchain" where the oldest proofs will be deleted based on a "still in discussion" method. I'm also currently wrapping my head around the Finite-state machine scripting that Anoncoin uses to send transactions at the moment.
 
+I would also mention Skaia who has done a great job working on the anoncoinj, to port Anoncoin to Android devices!
+
 We're preparing a release now before the first ZeroCoin enabled release, but it's most for preparing the network for the upcoming hardfork. And since we're hardforking anyway, we're going to introduce some more changes. KGW is trashed by the way. The other news can wait until we're researched more on it. But what it is can wait a bit longer :)
 
