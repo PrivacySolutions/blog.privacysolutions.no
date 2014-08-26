@@ -13,7 +13,7 @@ PurpleI2P
 
 The PurpleI2P router, formerly only named i2pd was started on July, 19, 2013. Now, over a year after we can finally enjoy some alpha testing with the router. It's still highly unstable, and should not be used in production of any kind. Just for testing and fun!
 
-i2pd support ECDSA signature for destinations now, that's will be default for the upcoming release of I2P, 0.9.15. i2pd was tested at both sides and is completely ready for upcoming I2P network change, in other words i2pd can communicate with eepsites, IRC and other services using ECDSA effictive now.
+i2pd support ECDSA signature for destinations now, that's will be default for the upcoming release of I2P, 0.9.15. i2pd was tested at both sides and is completely ready for the upcoming I2P network change, in other words i2pd can communicate with eepsites, IRC and other services using ECDSA now.
 
 I also took the time to hack together a service, running behind i2pd. irc.meeh.i2p is a IRC server on I2P you can access, and it's all done by i2pd, Java isn't even installed!
 
