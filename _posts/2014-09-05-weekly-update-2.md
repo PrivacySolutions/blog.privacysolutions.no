@@ -12,7 +12,7 @@ tags: [weekly,news]
 General PS News
 ----------
 
-It seems like we have gotten a deal with a bulk of PurpleI2P shirts which we can send to people donating above a sum, and bring to <a href="http://www.ccc.de/">CCC</a> this year to share! We're just awaiting final answers from one of a million sites that can do this. But we would prefer current partner because of price, and we know other people that are happy with their service. We will then give away some free shirts at <a href="http://www.ccc.de/">CCC</a>, and send to our best sponsors! (People who donate, and/or codes, and contributes in a way or another)
+It seems like we have gotten a deal with a bulk of PurpleI2P shirts which we can bring bring to <a href="http://www.ccc.de/">CCC</a> this year to share with interested people! We're just awaiting final answers from one of a million sites that can do this. But we would prefer current partner because of price, and we know other people that are happy with their service. We will then not only give away some free shirts at <a href="http://www.ccc.de/">CCC</a>, but also send to our best sponsors! (People who donate, and/or codes, and contributes in a way or another)
 
 At this writing moment it seems like at least I (Meeh) and Marielle are going to <a href="http://www.ccc.de/">CCC</a>, and hopefully Torkel, orignal and K1773R as well. The last three haven't confirmed yet, but they all wish to go if possible in their life situation. From I2P, as far as I know zzz, psi and zab at least are joining. We will team up with them at the start of <a href="http://www.ccc.de/">CCC</a>!
 
