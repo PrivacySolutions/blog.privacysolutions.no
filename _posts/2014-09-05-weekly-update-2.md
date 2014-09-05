@@ -58,3 +58,7 @@ This link will also serve other software we decides to build at least once a day
 
 Also, all this talk about about <a href="http://www.ccc.de/">CCC</a> made me wonder, and I've decided to ask if Gnosis wants to join as well. Hopefully PS(we) can pay for his trip!
 
+Update!
+( - Actually copied from a draft from Gnosis, but newsworthy so I'm posting it. /Meeh)
+Lastly, I wanted to give an update on the UFO project: it is ongoing and will  finish on September 15, when ANC rewards will be issued and the server source will be published to our Github. The largest factor found so far is 143551628346878317311308640667091515671003679, which is 45 digits (147 bits). For some perspective, the world record for factors found using this method is 78 digits (though for all we know, the NSA/GCHQ/$spook_agency have factored larger ones...). I'd like to thank all the participants for contributing their CPU core-months (core-years, in some cases) to this project -- this effort was essential for creating a trustless Zerocoin implementation using RSA UFOs.
+
